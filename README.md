@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Paradosseus</h1>
+<h1 align="center">Hi, I'm Paradosseus!</h1>
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue** and **REST API Integration and Development**
 
-- 👨‍💻 All of my projects are available at [https://francis-collado-portfolio-v2.vercel.app/](https://francis-collado-portfolio-v2.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://francis-collado-portfolio-v2.vercel.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YkDjy5M0HSeYeyyDIt_TNdnz2VmX8_gu/view?usp=drive_link](https://drive.google.com/file/d/1YkDjy5M0HSeYeyyDIt_TNdnz2VmX8_gu/view?usp=drive_link)
 
