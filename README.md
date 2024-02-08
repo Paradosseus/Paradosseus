@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [https://francis-collado-portfolio-v2.vercel.app/](https://francis-collado-portfolio-v2.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://francis-collado-portfolio-v2.vercel.app/)
 
 - 💬 Ask me about **Video games and React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YkDjy5M0HSeYeyyDIt_TNdnz2VmX8_gu/view?usp=drive_link](https://drive.google.com/file/d/1YkDjy5M0HSeYeyyDIt_TNdnz2VmX8_gu/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YkDjy5M0HSeYeyyDIt_TNdnz2VmX8_gu/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to play video games and tell dad jokes**
 
