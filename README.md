@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?w=2000&t=st=1707414920~exp=1707415520~hmac=2b0acb77cfc194a23af5e8f2c4c6665108eb00f2936389f25ee5d369f3c540c5">
+<img src="[https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=996&t=st=1707604637~exp=1707605237~hmac=739556cee3ff292a8d7e2de5cbdef3d649484fe0ee2a2cf16dff52c7ee55021d)w=2000&t=st=1707414920~exp=1707415520~hmac=2b0acb77cfc194a23af5e8f2c4c6665108eb00f2936389f25ee5d369f3c540c5">
 
 <h1 align="center">Hi, I'm Paradosseus 👋</h1>
 <h3 align="center">An Aspiring Web Developer from the Philippines</h3>
